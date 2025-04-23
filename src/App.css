@@ -1,0 +1,18 @@
+@import "tailwindcss";
+/* App.css */
+html, body {
+    height: 100%;  /* Garantir que ocupe a altura total */
+    margin: 0;     /* Remover margens padrão */
+    background-color: #252425; /* Defina aqui a cor do fundo */
+    color: #e0e0e0; /* Cor do texto */
+  }
+  
+body {
+    font-family: 'Inter', sans-serif; /* Aplica a fonte Montserrat globalmente */
+  }
+  
+  header h1 {
+    font-family: 'Inter', sans-serif; /* Aplica ao título específico */
+    font-weight: 700; /* Para deixar o título mais forte */
+  }
+  
